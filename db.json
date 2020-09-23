@@ -7,7 +7,7 @@
     "imageProduct": "https://i.ibb.co/93xvgP3/bawang-merah.jpg",
     "category": "bumbu",
     "descriptionProduct": "Bawang merah dengan berbagai ukuran",
-    "price": "8000",
+    "price": 8000,
     "per": "pack",
     "bestSelling": "yes"
   },
@@ -18,7 +18,7 @@
     "imageProduct": "https://i.ibb.co/C7fPpXL/semangka.jpg",
     "category": "buah",
     "descriptionProduct": "semangka dengan berbagai ukuran",
-    "price": "5000",
+    "price": 5000,
     "per": "kg",
     "bestSelling": "no"
   },
@@ -29,7 +29,7 @@
     "imageProduct": "https://i.ibb.co/Hq5xwQZ/apel.jpg",
     "category": "buah",
     "descriptionProduct": "Apel dengan berbagai ukuran",
-    "price": "20000",
+    "price": 20000,
     "per": "kg",
     "bestSelling": "no"
   },
@@ -40,7 +40,7 @@
     "imageProduct": "https://i.ibb.co/prVj6Ff/nugget.jpg",
     "category": "frozen",
     "descriptionProduct": "Nugget dengan berbagai ukuran",
-    "price": "36500",
+    "price": 36500,
     "per": "pack",
     "bestSelling": "yes"
   },
@@ -51,7 +51,7 @@
     "imageProduct": "https://i.ibb.co/7r98BGf/kol.jpg",
     "category": "sayur",
     "descriptionProduct": "Kol dengan berbagai ukuran",
-    "price": "3000",
+    "price": 3000,
     "per": "pack",
     "bestSelling": "yes"
   },
@@ -62,7 +62,7 @@
     "imageProduct": "https://i.ibb.co/WFM0pb3/ikan.jpg",
     "category": "seafood",
     "descriptionProduct": "Ikan dengan berbagai ukuran",
-    "price": "50000",
+    "price": 50000,
     "per": "pack",
     "bestSelling": "no"
   },
@@ -73,7 +73,7 @@
     "imageProduct": "https://i.ibb.co/cNK1Dkp/daging-ayam.jpg",
     "category": "daging",
     "descriptionProduct": "Daging Ayam dengan berbagai ukuran",
-    "price": "18000",
+    "price": 18000,
     "per": "pack",
     "bestSelling": "yes"
   },
@@ -84,7 +84,7 @@
     "imageProduct": "https://i.ibb.co/M89R70T/daging-sampi.jpg",
     "category": "daging",
     "descriptionProduct": "Daging Sapi dengan berbagai ukuran",
-    "price": "120000",
+    "price": 120000,
     "per": "pack",
     "bestSelling": "yes"
   },
@@ -95,7 +95,7 @@
     "imageProduct": "https://i.ibb.co/XSsjw16/brokoli.jpg",
     "category": "sayur",
     "descriptionProduct": "Brokoli dengan berbagai ukuran",
-    "price": "3000",
+    "price": 3000,
     "per": "pack",
     "bestSelling": "yes"
   },
@@ -106,7 +106,7 @@
     "imageProduct": "https://i.ibb.co/ykvDdZC/Garlic.jpg",
     "category": "bumbu",
     "descriptionProduct": "Bawang Putih dengan berbagai ukuran",
-    "price": "10000",
+    "price": 10000,
     "per": "pack",
     "bestSelling": "yes"
   }
