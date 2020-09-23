@@ -1,14 +1,112 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "itemID": 1,
+    "id": 1,
+    "nameProduct": "Bawang Merah",
+    "imageProduct": "assets/bawang_merah.jpg",
+    "category": "bumbu",
+    "descriptionProduct": "Bawang merah dengan berbagai ukuran",
+    "price": "8000",
+    "per": "pack",
+    "bestSelling": "yes"
+  },
+  {
+    "itemID": 1,
+    "id": 2,
+    "nameProduct": "Semangka",
+    "imageProduct": "assets/bawang_merah.jpg",
+    "category": "buah",
+    "descriptionProduct": "semangka dengan berbagai ukuran",
+    "price": "5000",
+    "per": "kg",
+    "bestSelling": "no"
+  },
+  {
+    "itemID": 1,
+    "id": 3,
+    "nameProduct": "Apel",
+    "imageProduct": "assets/bawang_merah.jpg",
+    "category": "buah",
+    "descriptionProduct": "Apel dengan berbagai ukuran",
+    "price": "20000",
+    "per": "kg",
+    "bestSelling": "no"
+  },
+  {
+    "itemID": 1,
+    "id": 4,
+    "nameProduct": "Nugget",
+    "imageProduct": "assets/daging_ayam.jpg",
+    "category": "frozen",
+    "descriptionProduct": "Nugget dengan berbagai ukuran",
+    "price": "36500",
+    "per": "pack",
+    "bestSelling": "yes"
+  },
+  {
+    "itemID": 1,
+    "id": 5,
+    "nameProduct": "Kol",
+    "imageProduct": "assets/kol.jpg",
+    "category": "sayur",
+    "descriptionProduct": "Kol dengan berbagai ukuran",
+    "price": "3000",
+    "per": "pack",
+    "bestSelling": "yes"
+  },
+  {
+    "itemID": 1,
+    "id": 6,
+    "nameProduct": "Ikan",
+    "imageProduct": "assets/ikan.jpg",
+    "category": "ikan",
+    "descriptionProduct": "Ikan dengan berbagai ukuran",
+    "price": "50000",
+    "per": "pack",
+    "bestSelling": "no"
+  },
+  {
+    "itemID": 1,
+    "id": 7,
+    "nameProduct": "Daging Ayam",
+    "imageProduct": "assets/daging_ayam.jpg",
+    "category": "daging",
+    "descriptionProduct": "Daging Ayam dengan berbagai ukuran",
+    "price": "18000",
+    "per": "pack",
+    "bestSelling": "yes"
+  },
+  {
+    "itemID": 1,
+    "id": 8,
+    "nameProduct": "Daging Sapi",
+    "imageProduct": "assets/daging.jpg",
+    "category": "daging",
+    "descriptionProduct": "Daging Sapi dengan berbagai ukuran",
+    "price": "120000",
+    "per": "pack",
+    "bestSelling": "yes"
+  },
+  {
+    "itemID": 1,
+    "id": 9,
+    "nameProduct": "Bawang Merah",
+    "imageProduct": "assets/brokoli.jpg",
+    "category": "sayur",
+    "descriptionProduct": "Brokoli dengan berbagai ukuran",
+    "price": "3000",
+    "per": "pack",
+    "bestSelling": "yes"
+  },
+  {
+    "itemID": 1,
+    "id": 10,
+    "nameProduct": "Bawang Putih",
+    "imageProduct": "assets/bawang_putih.jpg",
+    "category": "bumbu",
+    "descriptionProduct": "Bawang Putih dengan berbagai ukuran",
+    "price": "10000",
+    "per": "pack",
+    "bestSelling": "yes"
   }
-}
+]
