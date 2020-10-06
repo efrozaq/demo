@@ -132,8 +132,8 @@
   }
   ],
   "promotions": [
-    { "id": 1, "image_url": "https://ibb.co/album/hXH2G7"},
-    { "id": 2, "image_url": "https://ibb.co/9H7TGmj"}
+    { "id": 1, "image_url": "https://i.ibb.co/gZxT6bC/promo-2.jpg"},
+    { "id": 2, "image_url": "https://i.ibb.co/h2ch2N7/promo.jpg"}
   ],
   "profile": {
     "name": "typicode"
